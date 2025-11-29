@@ -1,0 +1,13 @@
+# entorno virtual
+.venv/
+
+# variables de entorno
+.env
+
+# configuración del IDE
+.idea/
+*.iml
+
+# cache de Python
+__pycache__/
+*.pyc
